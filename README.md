@@ -73,7 +73,7 @@ As the training accuracy increases, so does the validation accuracy. The same oc
 
 
 
-CONCLUSION
+## CONCLUSION
 
 Based on the results of the model, the binary classification model appears to be performing fairly well. The overall accuracy of the model is 79%, which suggests that the model is predicting both positive and negative tweets correctly for a large portion of the instances in the dataset.
 Overall, the model's performance provides confidence that it may be useful in predicting positive and negative tweets in similar scenarios. Further analysis will be useful to determine the model's limitations and areas for improvement.
