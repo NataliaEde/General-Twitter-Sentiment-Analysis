@@ -79,6 +79,10 @@ In conclusion, we employed various models for sentiment analysis and found that 
 
 To gain further insights(see in LTSM Notebook), we applied an LDA model for topic modeling, focusing specifically on negative tweets. The topics that emerged revealed that customers are predominantly dissatisfied with US Airlines' customer service and frequent delays. This valuable feedback can help airlines address these issues and make improvements in the areas that matter most to their customers. By continuously refining and applying such sentiment analysis models, businesses can gain actionable insights from customer feedback and enhance their products and services accordingly.
 
+
+
+*repo map*
+
 * Project_4_Tweeter_Sentiment_Analysis_Part_1.ipynb - notebook part 1
 * Project_4_Tweeter_Sentiment_Analysis_Part_2.ipynb - notebook part 2 (google colab)
 Created using Colaboratory
