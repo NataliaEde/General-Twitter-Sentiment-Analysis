@@ -3,7 +3,7 @@
 <img width="667" alt="Screen Shot 2023-03-21 at 11 36 20 AM" src="https://user-images.githubusercontent.com/44559346/226664474-dc1d9e64-e0dd-4c07-8272-e10302de45ca.png">
 
 
-# NTRODUCTION
+# INTRODUCTION
 
 Today, customers are increasingly voicing their opinions on social media, review sites, and other online platforms. Because of these opportunities, customer feedback reaches a wider audience, and businesses are affected accordingly. Companies are now more likely to consider customer feedback and improve their brand or product accordingly.
 
